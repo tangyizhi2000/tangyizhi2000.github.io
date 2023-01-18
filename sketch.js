@@ -16,7 +16,7 @@ let starting_loc_y = 0;
 let speed_sum = 0;
 //   shadow setting
 let flip = 0;
-let shadow_width = 30;
+let shadow_width = 100;
 
 function setup() {
   createCanvas(canvas_size, canvas_size);
@@ -25,7 +25,7 @@ function setup() {
     let temp_filename = 'https://raw.githubusercontent.com/tangyizhi2000/BananaTimer/main/' + str(i) + '.png'
     bananas.push(loadImage(temp_filename));
   }
-  shadow = loadImage('https://raw.githubusercontent.com/tangyizhi2000/BananaTimer/main/finalshadow2.png');
+  shadow = loadImage('https://raw.githubusercontent.com/tangyizhi2000/BananaTimer/main/finalshadow3.png');
   number = loadImage('https://raw.githubusercontent.com/tangyizhi2000/BananaTimer/main/number.png');
 
 }

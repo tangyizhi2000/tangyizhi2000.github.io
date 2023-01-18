@@ -16,7 +16,7 @@ let starting_loc_y = 0;
 let speed_sum = 0;
 //   shadow setting
 let flip = 0;
-let shadow_width = 100;
+let shadow_width = 85;
 
 function setup() {
   createCanvas(canvas_size, canvas_size);

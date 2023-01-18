@@ -37,7 +37,7 @@ function draw() {
   image(number, 0, 0, 800, 800);
   
   // rotation & shadow
-  let s = map(second() + minute() * 60 + hour() * 60 * 60, 0, 60 * 60 * 24, 0, TWO_PI);
+  let s = map(second() + minute() * 60 + hour() * 60 * 60, 0, 60 * 60 * 24, PI, 3 * PI);
   //let s = map(millis() + second() * 1000, 0, 60 * 1000, 0, TWO_PI);
   x = starting_loc_x + orbit_hori * cos(s);
   y = starting_loc_y + orbit_verti * sin(s);

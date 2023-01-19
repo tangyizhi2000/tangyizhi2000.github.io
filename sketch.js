@@ -1,5 +1,6 @@
 let bananas = [];
 let shadow;
+let min = 0;
 // all parameters
 //   banana setting
 let total_bananas = 6;
@@ -27,7 +28,7 @@ function setup() {
   }
   shadow = loadImage('https://raw.githubusercontent.com/tangyizhi2000/BananaTimer/main/finalshadow3.png');
   number = loadImage('https://raw.githubusercontent.com/tangyizhi2000/BananaTimer/main/number.png');
-
+  min = minute()
 }
 
 function draw() {
@@ -65,4 +66,10 @@ function draw() {
   //banana
   imageMode(CENTER);
   image(bananas[second() % total_bananas], 0, 0, banana_size, banana_size);
+  
+  // console
+  if(minute() != min){
+    min = minute();
+    print(min);
+  }
 }

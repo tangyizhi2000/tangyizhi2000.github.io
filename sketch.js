@@ -34,6 +34,7 @@ function setup() {
 function draw() {
   // background
   background(color(255,255,240));
+  /*
   translate(width / 2, height / 2);
   image(number, 0, 0, 800, 800);
   
@@ -71,5 +72,5 @@ function draw() {
   if(minute() != min){
     min = minute();
     print(min);
-  }
+  }*/
 }

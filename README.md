@@ -10,9 +10,9 @@ Initial Fund: PokerStarUSNJ 100$, CoinPoker 200$
 Goal: 3 months bankroll challenge to 1000$
 
 ### 09/06/2023 ###
-Duration: 3.5h
+- Duration: 3.5h
 
-Bankroll:
+- Bankroll:
 	- CoinPoker: +4.35
 	- PokerStarUSNJ: -14.21
 	- Total: -9.86

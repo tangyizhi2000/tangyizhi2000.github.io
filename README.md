@@ -1,15 +1,15 @@
 # Poker Bankroll Challenge
 
-## Starts
+### Starts ###
 Start Date: 09/06/2023
 
-2 Platforms PokerStarUSNJ and CoinPoker
+2 Platforms: PokerStarUSNJ and CoinPoker
 
 Initial Fund: PokerStarUSNJ 100$, CoinPoker 200$
 
-Goal: 3 months bankroll challenge to 1200$
+Goal: 3 months bankroll challenge to 1000$
 
-### 09/06/2023 PokerStarUSNJ ###
+### 09/06/2023 ###
 Duration: 3.5h
 
 Bankroll:

@@ -31,3 +31,20 @@ Hands:
 	1. Q on the turn, still 2 diamonds. Villain bets full pot, I call.
 	1. 3 on the river, still 2 diamonds. Villain bets full pot, I call. Villain shows 32 suited rivered full house.
 	1. Thoughts: A relatively dry board, the total number of combos that can triple barrel is KQ 6 combos + AK 8 combos + AA 6 combos + KK 1 combos = 21 combos. Villain bluffs can contain all suited diamonds connectors and maybe 1 gapper, approximately 20 combos, and some random bluffs. However, all-in bluffs and triple barrel bluffs are so rare in this stake level; Next time, call when at least beats some value hands of the triple-barreling villain.
+
+### 09/12/2023 ###
+- Duration: 3h
+
+- Bankroll:
+	- CoinPoker: +42.9
+	- PokerStarUSNJ: -0.00
+	- Total: +42.9
+
+Hands:
+
+- 
+	1. Poket 33, Button. Villain mid position open, I call. Heads up.
+	1. Flop Q83, Q3 diamonds, hit set. Villain check, I bet for 1/2 pot; villain check-raise me 5 times, huge raise. I call.
+	1. Turn K, still 2 diamonds. Villain bet 3/4 pot, I call.
+	1. River 4, still 2 diamonds. Villain goes All-in. I call. Villain got AA, I won.
+	1. Thoughts: Villain play really bad, especially the river bet. Pocket Aces does not have triple barrel value, since I don't have AK in my range. I have a lot of QK which beats pocket aces, and I have a lot of AQ that cannot call a large river bet. I won't have KT, KJ since these two hands will not have called a large flop check-raise. Villain should let me bluff with flush draws. For myself, I played good that I didn't re-raise the flop or the turn. A re-raise of a 5 times check raise will simply be too strong, and we want Villain to keep bluffing. From my perspective, Villain looks like a flush-draw when he check-raise large on the flop, or QK when he bets large on the turn. Good thing for me, easy call on the river since river is clean, no flush/straight.

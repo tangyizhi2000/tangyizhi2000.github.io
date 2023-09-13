@@ -48,3 +48,20 @@ Hands:
 	1. Turn K, still 2 diamonds. Villain bet 3/4 pot, I call.
 	1. River 4, still 2 diamonds. Villain goes All-in. I call. Villain got AA, I won.
 	1. Thoughts: Villain play really bad, especially the river bet. Pocket Aces does not have triple barrel value, since I don't have AK in my range. I have a lot of QK which beats pocket aces, and I have a lot of AQ that cannot call a large river bet. I won't have KT, KJ since these two hands will not have called a large flop check-raise. Villain should let me bluff with flush draws. For myself, I played good that I didn't re-raise the flop or the turn. A re-raise of a 5 times check raise will simply be too strong, and we want Villain to keep bluffing. From my perspective, Villain looks like a flush-draw when he check-raise large on the flop, or QK when he bets large on the turn. Good thing for me, easy call on the river since river is clean, no flush/straight.
+
+### 09/13/2023 ###
+- Duration: 1h
+
+- Bankroll:
+	- CoinPoker: +35.00
+	- PokerStarUSNJ: -0.00
+	- Total: +35.00
+
+### Week 1 Report ###
+- Total time: 7.5h
+
+- Bankroll:
+	- CoinPoker: $200 -> $280
+	- PokerStarUSNJ: $100 -> $90
+	- Total: $300 -> $370
+	- Week 1 hourly rate: $9.33/h

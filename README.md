@@ -9,7 +9,7 @@ Initial Fund: PokerStarUSNJ 100$, CoinPoker 200$
 
 Goal: 3 months bankroll challenge to 1000$
 
-### 09/06/2023 ###
+### 09/06/2023 (day1) ###
 - Duration: 3.5h
 
 - Bankroll:
@@ -32,7 +32,7 @@ Hands:
 	1. 3 on the river, still 2 diamonds. Villain bets full pot, I call. Villain shows 32 suited rivered full house.
 	1. Thoughts: A relatively dry board, the total number of combos that can triple barrel is KQ 6 combos + AK 8 combos + AA 6 combos + KK 1 combos = 21 combos. Villain bluffs can contain all suited diamonds connectors and maybe 1 gapper, approximately 20 combos, and some random bluffs. However, all-in bluffs and triple barrel bluffs are so rare in this stake level; Next time, call when at least beats some value hands of the triple-barreling villain.
 
-### 09/12/2023 ###
+### 09/12/2023 (day2) ###
 - Duration: 3h
 
 - Bankroll:
@@ -49,7 +49,7 @@ Hands:
 	1. River 4, still 2 diamonds. Villain goes All-in. I call. Villain got AA, I won.
 	1. Thoughts: Villain play really bad, especially the river bet. Pocket Aces does not have triple barrel value, since I don't have AK in my range. I have a lot of QK which beats pocket aces, and I have a lot of AQ that cannot call a large river bet. I won't have KT, KJ since these two hands will not have called a large flop check-raise. Villain should let me bluff with flush draws. For myself, I played good that I didn't re-raise the flop or the turn. A re-raise of a 5 times check raise will simply be too strong, and we want Villain to keep bluffing. From my perspective, Villain looks like a flush-draw when he check-raise large on the flop, or QK when he bets large on the turn. Good thing for me, easy call on the river since river is clean, no flush/straight.
 
-### 09/13/2023 ###
+### 09/13/2023 (day3) ###
 - Duration: 2.5h
 
 - Bankroll:
@@ -66,7 +66,7 @@ Hands:
 	- Total: $300 -> $360
 	- Week 1 hourly rate: $6.67/h
 
-### 09/14/2023 ###
+### 09/14/2023 (day4) ###
 - Duration: 4h
 
 - Bankroll:
@@ -83,7 +83,7 @@ Hands:
 	1. River 2, a brick. Villain bet half pot, I call. Villain turns over A7, a straight. I lose.
 	1. Thoughts: the reason why I call the river bet is that, in my range, I have more 7 than Villain. Villain's strong holdings such as an over pair, two pairs, or even set will almost always check when there is 4 to a straight. I have A8, which also blocks A7, and 87.
 
-### 09/15/2023 ###
+### 09/15/2023 (day5) ###
 - Duration: 1h
 
 - Bankroll:
